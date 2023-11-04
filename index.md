@@ -29,6 +29,7 @@ Markdownで箇条書きを作成するには、各行の先頭にアスタリス
 gitignoreは、設定ファイルであり、拡張子ではない。
 
 ## 2023/11/04 学習を継続
+C:\Users\〇〇\AppData\Local\SourceTree\app-3.4.15\tools\putty
 
 
 
